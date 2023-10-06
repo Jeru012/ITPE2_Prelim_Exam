@@ -1,5 +1,7 @@
-This is your prelim laboratory exam.
+Name: Jeru Balulao
+Block&Year: BSIT 3-2
 
-Use everything you learned (if there is) in solving this repository.
+This is our prelim Exam
 
-Goodluck!
+Age: 23
+Hobby: Drawing, Games, Piano
